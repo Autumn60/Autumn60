@@ -32,13 +32,3 @@
 ```
 
     
-
----
-
-![](./2-most-commit-language.svg)
-
-```
-![](https://raw.githubusercontent.com/Autumn60/Autumn60/main/profile-summary-card-output/blue_green/2-most-commit-language.svg)
-```
-
-    
